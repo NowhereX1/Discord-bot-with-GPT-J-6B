@@ -1,2 +1,8 @@
-# Discord-bot-with-GPT-J-6B
- Discord Bot using GPT-J-6B API
+# What is this?
+ GPT-J-6B Bot for Discord.
+
+ use main_botTR.py for Turkish servers.
+
+## Skills
+ OCR and EleutherAI API (HuggingFace)
+
