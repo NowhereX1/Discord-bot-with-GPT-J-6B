@@ -1,0 +1,6 @@
+deep_translator==1.8.3
+dhooks==1.1.4
+discord.py==1.7.3
+Pillow==9.1.1
+pytesseract==0.3.9
+requests==2.27.1
