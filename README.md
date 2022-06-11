@@ -5,4 +5,6 @@
 
 ## Skills
  OCR and EleutherAI API (HuggingFace)
+ 
+ ![](https://cdn.discordapp.com/attachments/968185036677451806/985079212111171664/unknown.png)
 
